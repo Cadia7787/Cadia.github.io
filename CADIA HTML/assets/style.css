@@ -1,0 +1,23 @@
+
+/*FRONT-BUNGEE-SPICE*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+/*----------*/
+
+/*TITRE*/
+
+.Titre {
+    text-align: center;
+    color: darkcyan;
+    text-shadow: 5px 0 0 darkred;
+    letter-spacing: 5px;
+    font-family: 'Bungee Spice', cursive;
+}
+
+/*BACKGROUNG DE LA PAGE*/
+
+body {
+    background: url(/assets/background.png);
+    background-repeat: no-repeat;
+}
